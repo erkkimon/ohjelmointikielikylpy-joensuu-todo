@@ -33,6 +33,9 @@ function App() {
       </ul>
       {/*
         tehtävien poistaminen
+        taskien tallennus localStorageen
+        stailaus jollain UI-freimvörkillä
+        moduulin siirto Ionic-projektiin
       */}
     </div>
   );
